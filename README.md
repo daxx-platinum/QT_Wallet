@@ -25,5 +25,9 @@ After that you start your DXP-qt or dxpcoind on your system.
 DXP-qt can run on Ubuntu 16.04 and Ubuntu 18.04 with above dependencies.
 For start node use btdcoind and run it on Ubuntu 16.04 LTS.
 
+Please Update Your Config file with addnode attribute to connect daxxplatinum blockchain with below nodes
 
+"134.209.56.85", 
+"167.99.43.94",
+"159.65.203.202"
 
